@@ -1,0 +1,1 @@
+arquivo= open('contato.txt','r')

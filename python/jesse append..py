@@ -1,0 +1,10 @@
+amigos =[]
+amigos.append ("joão")
+amigos.append ("maria")
+amigos.append ("kevyn")
+amigos.append ("kenedy")
+amigos.append ("andryele")
+print("lista final",amigos)
+print ("lista de amigos",amigos)
+amigos.sort()
+print("lista de amigos ordenada:",amigos)
